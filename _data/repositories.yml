@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - deniswoliveira
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - deniswoliveira/data-engineering-test-raizen
+  - deniswoliveira/meetup-eng-dados-apache-nifi
